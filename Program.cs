@@ -15,7 +15,7 @@ namespace Exercise
             User If statements and User Input and Methods to solve the challenge.
             */
             //Code Exercise
-            Console.WriteLine("Please enter the new registers name:\n");
+            Console.WriteLine("Please enter the new Users name:\n");
         }
     }
 }
